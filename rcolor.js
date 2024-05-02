@@ -12,3 +12,5 @@ const rcolor = () =>{
 }
 
 console.log(rcolor());
+
+module.exports = rcolor;
